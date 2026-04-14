@@ -15,8 +15,8 @@ const spaceMono = Space_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "DEVIX TERMINAL // DEEP RESEARCH",
-  description: "Devix Deep Research Pipeline Interface",
+  title: "AutoDR TERMINAL // DEEP RESEARCH",
+  description: "AutoDR Deep Research Engine",
 };
 
 export default function RootLayout({

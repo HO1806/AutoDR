@@ -1,7 +1,7 @@
-# 🛰️ Devix Research Pipeline v2.1
+# 🛰️ AutoDR v2.2
 ### *Advanced Multi-Agent Deep Research & Synthesis*
 
-Devix Research Pipeline is a high-performance orchestration engine designed to transform raw documents into comprehensive, search-grounded research reports. Powered by **Gemini 2.0 Flash** via the **Google AI SDK**, it features real-time web grounding and autonomous agent loops.
+AutoDR is a high-performance orchestration engine designed to transform raw documents into comprehensive, search-grounded research reports. Powered by **Gemini 2.0 Flash** via the **Google AI SDK**, it features real-time web grounding and autonomous agent loops.
 
 ---
 

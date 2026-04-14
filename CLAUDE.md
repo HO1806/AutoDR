@@ -1,4 +1,4 @@
-# devix_research
+# AutoDR
 Automator for deep research on multiple prompts using Google Gemini, replacing manual prompt injection on the Gemini web app.
 
 ## Stack

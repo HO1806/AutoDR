@@ -207,8 +207,8 @@ export default function Home() {
         <div className="flex items-center gap-4">
           <Terminal className="w-6 h-6 text-[#ff5500]" />
           <div>
-            <h1 className="font-bold uppercase tracking-widest text-lg leading-tight text-white glitch-text" data-text="DEVIX_TERMINAL">DEVIX_TERMINAL</h1>
-            <p className="text-[10px] text-[#ff5500] font-mono tracking-widest">DEEP RESEARCH PIPELINE v2.1</p>
+            <h1 className="font-bold uppercase tracking-widest text-lg leading-tight text-white glitch-text" data-text="AUTODR_TERMINAL">AUTODR_TERMINAL</h1>
+            <p className="text-[10px] text-[#ff5500] font-mono tracking-widest">AUTODR ENGINE v2.2</p>
           </div>
         </div>
         <div className="flex items-center gap-3">
@@ -474,7 +474,7 @@ export default function Home() {
                         const url = URL.createObjectURL(blob);
                         const a = document.createElement('a');
                         a.href = url;
-                        a.download = 'DEVIX_RESEARCH_SYNTHESIS.md';
+                        a.download = 'AUTODR_RESEARCH_SYNTHESIS.md';
                         a.click();
                       }}
                       className="text-[10px] font-mono bg-[#ccff00] text-black px-3 py-1 font-bold hover:bg-white transition-colors"

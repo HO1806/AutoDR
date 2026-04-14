@@ -8,7 +8,7 @@ const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const OUTPUT_DIR = path.join(process.cwd(), 'output');
 const RESEARCH_DIR = path.join(OUTPUT_DIR, 'research');
 const SYNTHESIS_DIR = path.join(OUTPUT_DIR, 'synthesis');
-const SYNTHESIS_FILE = path.join(SYNTHESIS_DIR, 'DEVIX_SYNTHESIS.md');
+const SYNTHESIS_FILE = path.join(SYNTHESIS_DIR, 'AUTODR_SYNTHESIS.md');
 
 function slug(text: string): string {
   return text.toLowerCase().replace(/[^a-z0-9]+/g, '_').replace(/^_+|_+$/g, '').substring(0, 60);
